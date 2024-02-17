@@ -10,3 +10,5 @@
   - Images
   - Autolists
   - Lists
+  - Bonjour
+  - Bonsoir
